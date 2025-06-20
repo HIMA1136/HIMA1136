@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HIMA1136</h1>
+<h1 align="center">Hi 👋, I'm Ibrahim Maher</h1>
 <h3 align="center">🚀 Passionate .NET Developer | C# | Microservices | API Gateway | RabbitMQ | Docker</h3>
 
 ---
